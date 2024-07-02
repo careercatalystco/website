@@ -208,7 +208,7 @@ p {
 	font-weight: var(--tg-body-font-weight);
 	line-height: var(--tg-body-line-height);
 	color: var(--tg-paragraph-color);
-	text-transform: var(--tg-text-transform);
+	/* text-transform: var(--tg-text-transform); */
 	margin-bottom: 15px;
 }
 hr {
